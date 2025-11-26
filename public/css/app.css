@@ -14,14 +14,25 @@ a {
   gap: 50px;
 }
 
+body {
+  background-image: url("../../../public/photoss/OIP.webp");
+  background-size: cover;
+}
+
 .section1 {
   padding-top: 20px;
   padding-left: 550px;
-  padding-right: 50px;
+  padding-right: 150px;
 }
 
-h1 {
+h1, h4 {
   color: red;
+  padding-left: 250px;
+  font-weight: 900;
+}
+
+.chang {
+  background-color: aqua;
 }
 
 /*# sourceMappingURL=app.css.map */
